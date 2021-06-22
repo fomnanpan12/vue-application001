@@ -1,0 +1,2 @@
+The goal is to bring out items from
+an array to a div using loop
